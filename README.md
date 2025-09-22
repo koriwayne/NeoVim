@@ -1,9 +1,11 @@
+# Config notes
+
 ########## Powerlevel10k ###########
 # Reload after making changes - source ~/.zshrc
 # Reload configuration wizard - p10k configure
 #
 ######### Ghostty ##########
-# Ghostty config file - /Users/kori.hanes/Library/Application Support/com.mitchellh.ghostty
+# Ghostty config file - /Users/<>/Library/Application Support/com.mitchellh.ghostty
 # ghostty +list-themes
 # ghostty +list-fonts
 #
