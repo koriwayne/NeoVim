@@ -1,7 +1,8 @@
 # Config notes
 
-# ######## Powerlevel10k ###########
-### Reload after making changes - source ~/.zshrc
+# Powerlevel10k 
+### Reload after making changes
+`source ~/.zshrc`
 ### Reload configuration wizard - p10k configure
 #
 ######### Ghostty ##########
