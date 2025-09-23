@@ -30,4 +30,13 @@
 `.config/nvim/init.lua`
 # NerdFonts
 
-`brew install --cask font-lekton-nerd-font` 
+`brew install --cask font-lekton-nerd-font`
+
+# LuaLine
+`https://github.com/nvim-lualine/lualine.nvim`
+
+# Rectangle - Tiling manager
+`brew install rectangle`
+
+# Stats - system stats
+`brew install stats`

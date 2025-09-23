@@ -22,5 +22,3 @@ local plugins = {
 
 require("lazy").setup("plugins")
 
--- Lua initialization file Colorschemes
-vim.cmd [[colorscheme nightfly]]
